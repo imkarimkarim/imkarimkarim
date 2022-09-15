@@ -1,28 +1,32 @@
 <h3>Hey! Nice to see you 👋</h3>
 Welcome to my page! 
 <br>
-<br>
+
+<p>
 I'm karim,
 aka Alireza Madani<br>
+
 a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
-<br>
-<br>
+ </p>
 
 <p>
 - 📚 &nbsp;I’m currently learning stuff and building resume
 <br>
 - ⚡ &nbsp;The main project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
-</p>
-- 🧑‍💻 &nbsp;Also im looking for "freelace/part time" jobs. so if you know about one please contact me at:  <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
+ <br>
+- 💻 &nbsp;Also im looking for "freelace/part time" jobs.
+ <br>
+ so if you know about one please contact me at:  <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
  <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a> or
  <a href="https://twitter.com/imkarimkarim/">Twitter</a>
 </p>
 
+<br>
+<p>
 <img align="left" width="490" height="140" src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
-
+</p>
 <br>
-
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 <p>
