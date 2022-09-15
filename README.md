@@ -8,12 +8,12 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
  </p>
 
 <p>
-- 📚 &nbsp;I’m currently learning stuff and building resume
+- 📚&nbsp;&nbsp;I’m currently learning stuff and building resume
 <br>
-- ⚡ &nbsp;The main project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
+- ⚔️&nbsp;&nbsp;The current project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
  <br>
-- 💻 &nbsp;Also im looking for "freelace/part time" jobs.
- so if you know about one please let me know🙏🏻
+- 💰&nbsp;&nbsp;Also looking for "freelace/part time" jobs.
+ so if you know one please let me know 🙏
 </p>
 
 <br>
@@ -29,11 +29,12 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
     <img src="https://img.shields.io/badge/-TS-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-679e63?style=flat-square&logo=Node.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/-express-fff?style=flat-square&logo=Express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=Yarn&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=MongoDB&logoColor=white"/>
