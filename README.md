@@ -1,6 +1,4 @@
-<h3>Hey! Nice to see you 👋</h3>
-Welcome to my page! 
-<br>
+<h3>Welcome to my page! 👋</h3>
 
 <p>
 I'm karim,
@@ -15,17 +13,14 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
 - ⚡ &nbsp;The main project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
  <br>
 - 💻 &nbsp;Also im looking for "freelace/part time" jobs.
- so if you know about one please contact me at:  <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
- <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a> or
- <a href="https://twitter.com/imkarimkarim/">Twitter</a>
+ so if you know about one please let me know🙏🏻
 </p>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
 <br>
-<details>
-<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <p>
   <p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -54,4 +49,7 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
     <img src="https://img.shields.io/badge/-Liara%20Cloud-2c333f?style=flat-square&logo=Liara%20Cloud&logoColor=white"/>
   </p>
 <p>
-</details>
+
+keep in touch via:   <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
+ <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a> or
+ <a href="https://twitter.com/imkarimkarim/">Twitter</a>
