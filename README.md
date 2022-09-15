@@ -15,7 +15,6 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
 - ⚡ &nbsp;The main project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
  <br>
 - 💻 &nbsp;Also im looking for "freelace/part time" jobs.
- <br>
  so if you know about one please contact me at:  <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
  <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a> or
  <a href="https://twitter.com/imkarimkarim/">Twitter</a>
