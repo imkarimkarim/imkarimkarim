@@ -22,11 +22,8 @@ a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
 </p>
 
 <br>
-<p>
-<img align="left" width="490" height="140" src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true"/>
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
-</p>
 <br>
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
