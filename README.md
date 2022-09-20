@@ -3,9 +3,8 @@
 <p>
 I'm karim,
 aka Alireza Madani<br>
-
-a FOSS JavaScript Developer
- </p>
+a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="JavaScript Logo" width="18px" />
+</p>
 
 <p>
 - 📚&nbsp;&nbsp;I’m currently learning stuff and building resume
