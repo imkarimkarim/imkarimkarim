@@ -4,7 +4,7 @@
 I'm karim,
 aka Alireza Madani<br>
 
-a FOSS bun <img src="https://bun.sh/logo-square.png" width="20" /> Developer
+a FOSS JavaScript Developer
  </p>
 
 <p>
