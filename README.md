@@ -9,7 +9,7 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 <p>
 - 📚&nbsp;&nbsp;I’m currently learning stuff and building resume
 <br>
-- ⚔️&nbsp;&nbsp;The current project that im working on is <a href="https://github.com/goje-softwares/">goje</a>
+- ⚔️&nbsp;&nbsp;The current projects that im working on are few :)
  <br>
 - 💰&nbsp;&nbsp;Also looking for "freelace/part time" jobs.
  so if you know one please let me know 🙏
@@ -27,18 +27,19 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
     <img src="https://img.shields.io/badge/-JS-f0db4e?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-TS-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=black"/>
+    <!--- <img src="https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=black"/> -->
     <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-679e63?style=flat-square&logo=Node.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/-express-fff?style=flat-square&logo=Express&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/>
+    <!--- <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/>  -->
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=Yarn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <!--- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>  -->
     <img src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Redis-d43013?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Cypress-222?style=flat-square&logo=Cypress&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Terminal-222?style=flat-square&logo=Terminal&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Prettier-1c2b33?style=flat-square&logo=Prettier&logoColor=white"/>
@@ -51,5 +52,6 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 <p>
 
 keep in touch via:   <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
- <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a> or
- <a href="https://twitter.com/imkarimkarim/">Twitter</a>
+ <a href="https://twitter.com/imkarimkarim/">Twitter</a> or
+ <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a>
+
