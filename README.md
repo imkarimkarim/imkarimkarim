@@ -19,7 +19,7 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 <img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
 <br>
-<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+<b>🛠️&nbsp;&nbsp;Main&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <p>
   <p>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
