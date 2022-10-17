@@ -27,6 +27,7 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
     <img src="https://img.shields.io/badge/-JS-f0db4e?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-TS-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>
     <!--- <img src="https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=black"/> -->
     <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-679e63?style=flat-square&logo=Node.js&logoColor=black"/>
