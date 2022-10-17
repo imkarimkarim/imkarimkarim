@@ -24,6 +24,7 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
   <p>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-tailwindcss-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JS-f0db4e?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-TS-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"/>
@@ -40,6 +41,7 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
     <img src="https://img.shields.io/badge/-MongoDB-116149?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Redis-d43013?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vite-bd34fe?style=flat-square&logo=Vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Cypress-222?style=flat-square&logo=Cypress&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Terminal-222?style=flat-square&logo=Terminal&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
