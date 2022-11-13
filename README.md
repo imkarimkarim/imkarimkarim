@@ -7,9 +7,9 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 </p>
 
 <p>
-- 📚&nbsp;&nbsp;I’m currently learning stuff and building resume
+- 📚&nbsp;&nbsp;I’m currently learning, building and failing :)
 <br>
-- ⚔️&nbsp;&nbsp;The current projects that im working on are few :)
+- ⚔️&nbsp;&nbsp;programming is fun if you don't stuck with bugs...
  <br>
 - 💰&nbsp;&nbsp;Also looking for "freelace/part time" jobs.
  so if you know one please let me know 🙏
