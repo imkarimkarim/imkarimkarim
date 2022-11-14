@@ -58,5 +58,5 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 
 keep in touch via:   <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
  <a href="https://twitter.com/imkarimkarim/">Twitter</a> or
- <a href="https://www.linkedin.com/in/alireza-madani-670475245/">Linkedin</a>
+ <a href="https://www.linkedin.com/in/imkarimkarim">Linkedin</a>
 
