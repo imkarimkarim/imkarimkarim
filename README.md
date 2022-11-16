@@ -15,7 +15,9 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
 
 <img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
-### <b>🛠️&nbsp;&nbsp;Main&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+
+### 🛠️ Main Languages and Tools
+
 <p>
   <p>
     <img src="https://img.shields.io/badge/-HTML-E45028?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -54,7 +56,8 @@ a JavaScript Developer <img src="https://pluspng.com/img-png/javascript-vector-p
   </p>
 <p>
  
- ### ☎️ Contacts
+### ☎️ Contacts
+ 
 keep in touch via:   <a href="mailto:allalirezamail@gmail.com">allalirezamail@gmail.com</a>,
  <a href="https://twitter.com/imkarimkarim/">Twitter</a> or
  <a href="https://www.linkedin.com/in/imkarimkarim">Linkedin</a>
