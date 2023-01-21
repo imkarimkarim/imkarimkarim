@@ -14,22 +14,22 @@ aka Alireza Madani<br>
   <p>
     <img src="https://img.shields.io/badge/-HTML-E45028?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-2862E9?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Tailwind-0A1020?style=flat-square&logo=tailwindcss&logoColor=30A1D6"/>
+    <!--- <img src="https://img.shields.io/badge/-Tailwind-0A1020?style=flat-square&logo=tailwindcss&logoColor=30A1D6"/> -->
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1D?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
-    <br />
     <!--- <img src="https://img.shields.io/badge/-MUI-001E3C?style=flat-square&logo=MUI&logoColor=007FFF"/> -->
-    <!--- <img src="https://img.shields.io/badge/-Vite-A254FD?style=flat-square&logo=Vite&logoColor=FECE29"/> -->
-    <!--- <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> -->
     <!--- <img src="https://img.shields.io/badge/-Node.js-588255?style=flat-square&logo=Node.js&logoColor=000000"/> -->
     <!--- <img src="https://img.shields.io/badge/-express-fff?style=flat-square&logo=Express&logoColor=black"/> -->
-    <img src="https://img.shields.io/badge/-React Native-61dafb?style=flat-square&logo=React&logoColor=black"/>    
+    <img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=React&logoColor=61dafb"/>    
+    <br />
     <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PocketBase-ffffff?style=flat-square&logo=PocketBase&logoColor=000000"/>
     <!--- Go  -->
-    <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/>
+    <!--- <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>  -->
+    <!--- <img src="https://img.shields.io/badge/-Vite-A254FD?style=flat-square&logo=Vite&logoColor=FECE29"/> -->
+    <!--- <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/> -->
     <!--- WASM  -->
     <img src="https://img.shields.io/badge/-Cypress-1B1E2E?style=flat-square&logo=Cypress&logoColor=6FD5AA"/>
     <!--- <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/> -->
@@ -49,7 +49,7 @@ aka Alireza Madani<br>
     <!--- <img src="https://img.shields.io/badge/-Linux-020204?style=flat-square&logo=Linux&logoColor=F7BE0D"/> -->
     <!--- <img src="https://img.shields.io/badge/-Windows-094596?style=flat-square&logo=Windows&logoColor=white"/> -->
     <!--- <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/> -->  
-    <br /> and many more...
+    and many more...
   </p>
 <p>
  
