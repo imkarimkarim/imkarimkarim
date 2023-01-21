@@ -1,9 +1,10 @@
 # <h3>Welcome to my page! 👋</h3>
 
 <p>
-I'm karim,
-aka Alireza Madani<br>
+I'm karim, a FrontEnd developer
 </p>
+
+{aboutMePlaceHolder}
 
 <img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
