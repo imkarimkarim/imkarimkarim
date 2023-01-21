@@ -23,11 +23,11 @@ a web dev
     <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Vite-A254FD?style=flat-square&logo=Vite&logoColor=FECE29"/>
     <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/>
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-   <!--- <img src="https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=black"/> -->    
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>    
     <img src="https://img.shields.io/badge/-Node.js-588255?style=flat-square&logo=Node.js&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-express-fff?style=flat-square&logo=Express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-PocketBase-ffffff?style=flat-square&logo=PocketBase&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/-React Native-61dafb?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Cypress-1B1E2E?style=flat-square&logo=Cypress&logoColor=6FD5AA"/>
     <!--- <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/>  -->
