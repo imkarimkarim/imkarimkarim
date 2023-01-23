@@ -22,11 +22,11 @@ hi👋 im karim, a FrontEnd developer🧑‍💻
     <br />
     <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/>
     <img src="https://img.shields.io/badge/-PocketBase-ffffff?style=flat-square&logo=PocketBase&logoColor=000000"/>
     <!--- Go  -->
     <!--- <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=Svelte&logoColor=white"/>  -->
     <!--- <img src="https://img.shields.io/badge/-Vite-A254FD?style=flat-square&logo=Vite&logoColor=FECE29"/> -->
-    <!--- <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/> -->
     <!--- WASM  -->
     <img src="https://img.shields.io/badge/-Cypress-1B1E2E?style=flat-square&logo=Cypress&logoColor=6FD5AA"/>
     <!--- <img src="https://img.shields.io/badge/-NestJS-ea2745?style=flat-square&logo=NestJS&logoColor=black"/> -->
