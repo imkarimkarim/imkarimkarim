@@ -1,5 +1,5 @@
 <p>
-hi👋 im karim, a FrontEnd developer🧑‍💻
+hi👋 im karim, a Front-end developer🧑‍💻
 </p>
 
 <!---<img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true" /> -->
