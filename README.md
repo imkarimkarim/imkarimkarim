@@ -19,7 +19,6 @@ hi👋 im karim, a Front-end developer🧑‍💻
     <!--- <img src="https://img.shields.io/badge/-Node.js-588255?style=flat-square&logo=Node.js&logoColor=000000"/> -->
     <!--- <img src="https://img.shields.io/badge/-express-fff?style=flat-square&logo=Express&logoColor=black"/> -->
     <!--- <img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=React&logoColor=61dafb"/> -->
-    <br />
     <!--- <img src="https://img.shields.io/badge/-Electron-272a37?style=flat-square&logo=Electron&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Astro-1A183A?style=flat-square&logo=Astro&logoColor=9333EA"/>
@@ -46,7 +45,7 @@ hi👋 im karim, a Front-end developer🧑‍💻
     <!--- <img src="https://img.shields.io/badge/-Linux-020204?style=flat-square&logo=Linux&logoColor=F7BE0D"/> -->
     <!--- <img src="https://img.shields.io/badge/-Windows-094596?style=flat-square&logo=Windows&logoColor=white"/> -->
     <!--- <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/> -->  
-    and many more...
+    and more...
   </p>
 <p>
  
