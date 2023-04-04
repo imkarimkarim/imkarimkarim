@@ -1,6 +1,10 @@
-<p>
-hi👋 im karim, a Front-End developer🧑‍💻
-</p>
+# hi👋 im karim, aka Alireza Madani
+##  Front-End developer🧑‍💻 | Next.js | React | Astro | Svelte
+
+
+*   🚀  currently working at [MetFt](http://metft.com/)
+*   🧠  also learning Go to extend PocketBase for my next project
+*   🤝  open to collaborating on FOSS
 
 <!---<img src="https://github-readme-stats.vercel.app/api?username=imkarimkarim&show_icons=true&hide_border=false&line_height=20&title_color=000&icon_color=1b93c9&show_owner=true" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarimkarim&hide_border=false&title_color=000&layout=compact" />
