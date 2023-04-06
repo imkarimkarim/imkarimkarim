@@ -1,5 +1,5 @@
 # hi👋 im karim, aka Alireza Madani
-##  Front-End developer🧑‍💻 | Next.js | React | Astro | Svelte
+##  Front-End developer🧑‍💻 | React | Next.js | Astro | Svelte
 
 
 *   🚀  currently working at [MetFt](http://metft.com/)
