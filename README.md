@@ -1,5 +1,5 @@
 # what's up👋 
-## im karim, a internet crawler 🔭
+## im karim, a internet crawler 🔭, Front-End developer and Linux user
 
 my specialties are JavaScript, React, and problem-solving, for which people pay me  
 currently working at [changino.ir](https://changino.ir)  
