@@ -1,5 +1,5 @@
 # what's up👋 
-## im karim, a internet crawler 🔭 and GNU/Linux user
+## im karim, a internet crawler 🔭 / GNU/Linux user
 
 my specialties are JavaScript, React, and problem-solving, for which people pay me  
 💼 open to new opportunities  
