@@ -1,5 +1,5 @@
 # What's up? 👋 
-## I'm karim, a User
+## I'm karim, a Developer 
 
 My specialties are JavaScript, React, and problem-solving.
 
