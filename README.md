@@ -20,3 +20,11 @@ backend engineering, and building products from idea to launch.
 ### ⌨️ My coding activity
 
 [![wakatime](https://wakatime.com/badge/user/4598c3d9-6a7c-44f5-83ed-3a08578130a7.svg)](https://wakatime.com/@4598c3d9-6a7c-44f5-83ed-3a08578130a7)
+
+---
+
+### Let's connect 🤝
+
+- ▶️ [YouTube](https://www.youtube.com/@imkarimkarim)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imkarimkarim/)
+- ✈️ [Telegram](https://t.me/pmkarim) — Feel free to DM me!
